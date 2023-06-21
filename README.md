@@ -1,4 +1,4 @@
-# COVID-19 City-wise Dashboard
+# COVID-19 Pakistan Dashboard
 
 ## Overview
 This dashboard provides an overview of the COVID-19 cases, deaths, and recoveries in various cities and regions. The data used in this dashboard is sourced from the COVID-19 city-wise dataset available on Kaggle.
