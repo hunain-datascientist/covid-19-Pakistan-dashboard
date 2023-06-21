@@ -1,11 +1,10 @@
-# covid-19-Pakistan-dashboard
 # COVID-19 City-wise Dashboard
 
 ## Overview
 This dashboard provides an overview of the COVID-19 cases, deaths, and recoveries in various cities and regions. The data used in this dashboard is sourced from the COVID-19 city-wise dataset available on Kaggle.
 
 ## Dataset
-The dataset contains information on COVID-19 cases, deaths, and recoveries in different regions. It includes the following pivot tables:
+The dataset contains information on COVID-19 cases, deaths, and recoveries in different regions. [Dataset](https://www.kaggle.com/datasets/arslanr/covid19citywisedata)
 
 ### Cases by Region
 - AJK: 1
@@ -73,7 +72,5 @@ The dataset contains information on COVID-19 cases, deaths, and recoveries in di
 - AJK: 1
 - Grand Total: 3277
 
-## Usage
-To view the dashboard, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git
+## Conclusion
+The COVID-19 City-wise Dashboard provides an overview of COVID-19 cases, deaths, and recoveries in various cities and regions. Punjab and Sindh have the highest number of cases, with 26 each. The Local category has the highest number of recoveries, with 2,112 individuals recovering from the virus. Iran has the highest number of deaths at 11 and the highest number of recoveries at 501. Regular updates are important for accurate analysis. Please refer to reliable sources for real-time COVID-19 updates. Stay safe and take necessary precautions.
