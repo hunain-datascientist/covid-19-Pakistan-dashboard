@@ -4,7 +4,7 @@
 This dashboard provides an overview of the COVID-19 cases, deaths, and recoveries in various cities and regions. The data used in this dashboard is sourced from the COVID-19 city-wise dataset available on Kaggle.
 
 ## Dataset
-The dataset contains information on COVID-19 cases, deaths, and recoveries in different regions. [Dataset](https://www.kaggle.com/datasets/arslanr/covid19citywisedata)
+The dataset contains information on COVID-19 cases, deaths, and recoveries in different regions. [Dataset](https://drive.google.com/file/d/19hJCj-AecTAmi-Dq3VFMtpBoqhQmOHLp/view?usp=sharing)
 
 ### Cases by Region
 - AJK: 1
