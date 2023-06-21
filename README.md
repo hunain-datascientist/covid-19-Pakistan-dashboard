@@ -61,7 +61,7 @@ The dataset contains information on COVID-19 cases, deaths, and recoveries in di
 - USA: 1
 - Grand Total: 30076
 
-### Cases by Region (Field6)
+### Cases by Region
 - Sindh: 1328
 - KPK: 857
 - Punjab: 626
